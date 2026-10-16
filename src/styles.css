@@ -1,3 +1,16 @@
 body {
   background: #f8f9fa;
 }
+
+main {
+  min-height: 75vh;
+}
+
+.event-image {
+  height: 180px;
+  object-fit: cover;
+}
+
+.auth-form {
+  max-width: 420px;
+}
